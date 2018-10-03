@@ -36,7 +36,7 @@
 
 #define WATERING_TIME 10000 // miliseconds
 
-const char* host = "petus1.tmep.cz";
+const char* host = "HOSTNAME.tmep.cz";
 
 #define PUMP  OUT1 
 #define VALVE_1 OUT2 
